@@ -1,0 +1,15 @@
+Come leggere la tavola di Poisson:
+https://www.youtube.com/watch?v=TBILrY4mJRU
+
+In pratica si deve avere un parametro fornito già a priori (come nel video, 4.8) e poi si calcola
+in base alla probabilità.
+Quindi se avessi P(X >=11) so che devo guardare come riga il parametro (4.8)
+e come colonna x=11, avendo quindi 0.0104
+
+Come leggere la tavola della distribuzione normale:
+https://www.youtube.com/watch?v=lgwT6tDniko
+
+Qui è ancora più semplice: basta avere già la variabile Z, che avrò sempre a prescindere,
+per esempio sto calcolando una variabile normale del tipo: 1 - Z(1,28).
+A quel punto come riga scelgo 1,2 (quindi il pezzo prima del decimale) e poi 0.8 come colonna (l'altro pezzo)
+ottenendo, prendo 0,3997
