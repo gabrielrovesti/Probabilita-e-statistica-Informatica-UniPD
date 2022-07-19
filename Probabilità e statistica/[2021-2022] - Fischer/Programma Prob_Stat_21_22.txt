@@ -1,0 +1,51 @@
+Programma:
+
+Esperimenti aleatori e spazi di probabilità discreti
+
+Distribuzioni discrete e densità discrete. Estrazioni da un'urna.
+
+Probabilità condizionali: definizione, proprietà, Teorema di Bayes; applicazione.
+
+Indipendenza di due e più di due eventi; esempi, caratterizzazione equivalente.
+
+Prove ripetute e indipendenti.
+
+Variabili aleatorie discrete: definizione; eventi generati; legge e densità discreta. 
+Esempio delle prove ripetute e indipendenti.
+
+Legge congiunta di v.a. e leggi marginali; indipendenza di variabili aleatorie. 
+Valor medio per v.a. reali su spazi discreti.
+
+Distribuzioni notevoli di v.a. reali discrete: 
+Bernoulli, Rademacher, binomiale, ipergeometrica, geometrica, Poisson, uniforme. 
+Valor medio per v.a. reali discrete: primi esempi, proprietà.
+
+Esempio: strategia del raddoppio. 
+Spazi Lp, varianza, deviazione standard e covarianza. 
+Valor medio del prodotto di v.a. indipendenti.
+
+V.a. indipendenti vs. v.a. incorrelate. 
+Media empirica di v.a. identicamente distribuite e indipendenti a due a due. 
+Disuguaglianza di Markov-Chebyshev.
+
+Funzione di ripartizione per v.a. reali discrete. 
+V.a. reali generali: definizione; legge attraverso funzioni di ripartizione. 
+Distribuzioni assolutamente continue. Distribuzioni uniforme continua, esponenziale, gaussiana, e loro densità.
+
+Valor atteso per v.a. reali generali: definizione, proprietà.
+
+Convergenza di successioni di v.a. reali: quasi certa, in probabilità.
+Legge debole dei grandi numeri (versione L^2; con dimostrazione). 
+Applicazioni: convergenza di densità discrete empiriche; 
+metodo Monte Carlo per il calcolo di integrali.
+
+Distribuzioni gaussiane: densità, media e varianza funzione di ripartizione, 
+somme di gaussiane indipendenti. 
+Teorema del limite centrale (enunciato).
+
+Prove ripetute e indipendenti: 
+Approssimazione normale vs. approssimazione di Poisson 
+vs. stime mediante Markov-Chebyshev
+
+NON è stata fatta Statistica in nessuna forma.
+
